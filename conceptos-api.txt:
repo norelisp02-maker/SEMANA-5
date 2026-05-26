@@ -1,0 +1,8 @@
+La ruta principal (/) muestra la página o mensaje inicial del servidor.
+Puede servir para presentar información general de una aplicación comunitaria, como noticias, avisos o bienvenida a los usuarios.
+
+La ruta /saludo muestra un mensaje de saludo.
+Puede servir para verificar que el servidor funciona correctamente o para enviar mensajes simples a los usuarios de la comunidad.
+
+La ruta /mensaje/juan utiliza un parámetro dinámico ("juan") para mostrar un mensaje personalizado.
+Puede servir en una aplicación comunitaria para saludar a cada usuario por su nombre, mostrar información personalizada o identificar participantes dentro de la plataforma.

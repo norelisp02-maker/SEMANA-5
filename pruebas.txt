@@ -1,0 +1,8 @@
+http://localhost:3000
+Muestra la página principal o mensaje inicial del servidor.
+
+http://localhost:3000/saludo
+Muestra un saludo definido en la ruta /saludo.
+
+http://localhost:3000/mensaje/juan
+Muestra un mensaje personalizado usando el nombre "juan" como parámetro de la ruta.
